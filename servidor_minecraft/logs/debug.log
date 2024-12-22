@@ -5286,3 +5286,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Dec2024 23:35:50.361] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIOTNyx lost connection: Disconnected
 [22Dec2024 23:35:50.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx left the game
 [22Dec2024 23:36:12.359] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[22Dec2024 23:40:19.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[22Dec2024 23:40:19.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[22Dec2024 23:45:19.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[22Dec2024 23:45:19.170] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[22Dec2024 23:46:47.785] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tacz/guns/api/entity/ShootResult
+[22Dec2024 23:46:47.812] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tacz/guns/api/event/common/GunDamageSourcePart
+[22Dec2024 23:49:13.856] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
