@@ -1461,3 +1461,36 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Dec2024 23:27:28.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ joined the game
 [22Dec2024 23:28:55.056] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArazibeMoney50_ lost connection: Disconnected
 [22Dec2024 23:28:55.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ left the game
+[22Dec2024 23:30:13.470] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArazibeMoney50_[/127.10.2.120:46087] logged in with entity id 3974 at (-1573.699999988079, 59.0, 767.5438487148721)
+[22Dec2024 23:30:13.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ joined the game
+[22Dec2024 23:31:20.520] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIOTNyx[/127.135.191.121:36301] logged in with entity id 4326 at (-3255.282780576062, 66.0, -1773.3836929134638)
+[22Dec2024 23:31:20.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx joined the game
+[22Dec2024 23:31:21.056] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[22Dec2024 23:31:42.256] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[22Dec2024 23:32:07.664] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting top/ribs/scguns/item/attachment/IAttachment$Type
+[22Dec2024 23:32:42.105] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[22Dec2024 23:32:48.459] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> ArazibeMoney50_
+[22Dec2024 23:32:51.802] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> eu
+[22Dec2024 23:33:05.809] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> dime algo que hacer en este servidor
+[22Dec2024 23:33:12.959] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> dame cobre
+[22Dec2024 23:33:14.859] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> pofis
+[22Dec2024 23:33:16.404] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> JAJAJAJAJ
+[22Dec2024 23:33:21.605] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[22Dec2024 23:33:23.784] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> te lo compro
+[22Dec2024 23:33:28.058] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> que me das a cambio?
+[22Dec2024 23:33:35.651] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> hummm
+[22Dec2024 23:33:46.909] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> 1o manzanas de oro?
+[22Dec2024 23:33:55.726] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> cuanto quieres?{
+[22Dec2024 23:33:55.813] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> 10
+[22Dec2024 23:34:04.960] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> 10 de cobre?
+[22Dec2024 23:34:06.460] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ps ocupo un monton
+[22Dec2024 23:34:09.412] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ala
+[22Dec2024 23:34:23.361] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> 10 de cobre es muy poco por 10 manzanas
+[22Dec2024 23:34:34.812] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> cuanto de cobre quieres?
+[22Dec2024 23:34:51.865] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> 72
+[22Dec2024 23:35:09.072] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> hmmm nose
+[22Dec2024 23:35:14.161] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> oro tienes?
+[22Dec2024 23:35:48.861] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> nose ya me aburri
+[22Dec2024 23:35:50.361] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIOTNyx lost connection: Disconnected
+[22Dec2024 23:35:50.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx left the game
+[22Dec2024 23:36:12.359] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
