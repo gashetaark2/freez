@@ -4388,3 +4388,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Dec2024 22:57:52.608] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
 [22Dec2024 22:58:31.332] [Server thread/DEBUG] [ModernFix/]: Structure zombiekit:shelter/touring_car is being run through DFU (hash d21c65c0c590aea0bce74378e0c7b927f336da70d963a22fa701e2f90805c4a0), this will cause launch time delays
 [22Dec2024 22:58:31.333] [Server thread/INFO] [ModernFix/]: Instantiating Mojang DFU
+[22Dec2024 23:00:19.176] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[22Dec2024 23:00:19.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[22Dec2024 23:00:51.397] [Server thread/DEBUG] [ModernFix/]: Structure zombiekit:shelter/broken is being run through DFU (hash dfead9a4a617febfe89a23417b19534ab6d7f3c0eff05cdadede3c60795e517d), this will cause launch time delays
+[22Dec2024 23:00:51.745] [Server thread/DEBUG] [ModernFix/]: Structure zombiekit:shelter/broken_gate is being run through DFU (hash f0e21f181a51e05c5037cf39baadab30b37ae5b5099faa1894cb9cf8366ae555), this will cause launch time delays
+[22Dec2024 23:00:51.757] [Server thread/DEBUG] [ModernFix/]: Structure zombiekit:shelter/broken_basement is being run through DFU (hash 303f649c54f55f683fa43e94bc78c4ed5e643a2717a7a8a3d2b7a10fb32fa475), this will cause launch time delays
+[22Dec2024 23:00:52.056] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[22Dec2024 23:00:56.906] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/SetBlockCommand$Mode
+[22Dec2024 23:02:19.506] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[22Dec2024 23:05:19.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[22Dec2024 23:05:19.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[22Dec2024 23:06:53.355] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
