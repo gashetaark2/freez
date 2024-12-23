@@ -1095,3 +1095,32 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23Dec2024 02:01:29.934] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity$AnimationStatus
 [23Dec2024 02:05:44.151] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
 [23Dec2024 02:11:05.334] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[23Dec2024 02:22:24.916] [ForkJoinPool.commonPool-worker-3/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[23Dec2024 02:22:25.014] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dreoufther[/127.44.182.56:37741] logged in with entity id 3163 at (-1580.2990692884764, 57.5, 768.6518540711589)
+[23Dec2024 02:22:25.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dreoufther joined the game
+[23Dec2024 02:23:00.377] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[23Dec2024 02:23:00.384] [ForkJoinPool.commonPool-worker-3/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> wenas
+[23Dec2024 02:23:44.219] [ForkJoinPool.commonPool-worker-3/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> a
+[23Dec2024 02:23:46.121] [ForkJoinPool.commonPool-worker-3/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> wenas
+[23Dec2024 02:23:50.533] [ForkJoinPool.commonPool-worker-3/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> no te avia visto xd
+[23Dec2024 02:23:55.812] [ForkJoinPool.commonPool-worker-3/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ando acomodando cofres velos
+[23Dec2024 02:24:17.705] [ForkJoinPool.commonPool-worker-3/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> ok
+[23Dec2024 02:24:32.401] [ForkJoinPool.commonPool-worker-3/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> aaaaa
+[23Dec2024 02:24:35.250] [ForkJoinPool.commonPool-worker-3/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> toma regalito
+[23Dec2024 02:24:55.000] [ForkJoinPool.commonPool-worker-3/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> salaverga
+[23Dec2024 02:25:01.502] [ForkJoinPool.commonPool-worker-3/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> dale a las flechas
+[23Dec2024 02:25:14.050] [ForkJoinPool.commonPool-worker-3/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> y dale al q dice sniper
+[23Dec2024 02:25:23.977] [ForkJoinPool.commonPool-worker-3/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> y es el M95
+[23Dec2024 02:25:45.951] [ForkJoinPool.commonPool-worker-3/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> esta mamalon
+[23Dec2024 02:25:51.150] [ForkJoinPool.commonPool-worker-3/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> sisiis
+[23Dec2024 02:26:01.174] [ForkJoinPool.commonPool-worker-3/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> y te di balas
+[23Dec2024 02:26:08.209] [ForkJoinPool.commonPool-worker-3/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> quita 75 de daño
+[23Dec2024 02:26:11.303] [ForkJoinPool.commonPool-worker-3/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> no las malgastes xd
+[23Dec2024 02:26:26.319] [ForkJoinPool.commonPool-worker-3/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> weno :v
+[23Dec2024 02:26:42.520] [ForkJoinPool.commonPool-worker-3/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> mira we, tambien tengo helicoptero
+[23Dec2024 02:26:51.751] [ForkJoinPool.commonPool-worker-3/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ojoooo
+[23Dec2024 02:26:54.100] [ForkJoinPool.commonPool-worker-3/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> vamoooos
+[23Dec2024 02:26:56.323] [ForkJoinPool.commonPool-worker-3/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ya tenemos 2
+[23Dec2024 02:27:00.469] [ForkJoinPool.commonPool-worker-3/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> sis
+[23Dec2024 02:27:28.202] [ForkJoinPool.commonPool-worker-3/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> vamos chetados
+[23Dec2024 02:27:32.062] [ForkJoinPool.commonPool-worker-3/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ay q encantarnos
