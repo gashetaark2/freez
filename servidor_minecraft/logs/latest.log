@@ -1161,3 +1161,30 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23Dec2024 02:35:41.658] [ForkJoinPool.commonPool-worker-3/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> neta
 [23Dec2024 02:36:15.436] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
 [23Dec2024 02:36:53.307] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[23Dec2024 02:39:55.014] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIOTNyx[/127.135.191.121:44805] logged in with entity id 4426 at (-3254.869052612264, 66.0, -1767.6465114329912)
+[23Dec2024 02:39:55.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx joined the game
+[23Dec2024 02:40:24.953] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIOTNyx lost connection: Disconnected
+[23Dec2024 02:40:24.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx left the game
+[23Dec2024 02:40:34.431] [ForkJoinPool.commonPool-worker-5/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> XD?
+[23Dec2024 02:40:38.930] [ForkJoinPool.commonPool-worker-5/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> se entro y salio
+[23Dec2024 02:40:39.401] [ForkJoinPool.commonPool-worker-5/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> XXDXDXDXDX
+[23Dec2024 02:41:03.663] [ForkJoinPool.commonPool-worker-5/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> me mandan a la tienda ya vengo
+[23Dec2024 02:41:09.014] [ForkJoinPool.commonPool-worker-5/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> joder q god
+[23Dec2024 02:41:12.864] [ForkJoinPool.commonPool-worker-5/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> ok
+[23Dec2024 02:42:15.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ArazibeMoney50_: secuestraron a arazibemoney50_
+[23Dec2024 02:42:15.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Dreoufther: secuestraron a arazibemoney50_
+[23Dec2024 02:42:22.701] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> aaaaaaaaa
+[23Dec2024 02:42:27.251] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> mames
+[23Dec2024 02:43:01.701] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> mira dreu
+[23Dec2024 02:43:15.392] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> ta mamalon
+[23Dec2024 02:43:16.576] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> en esas partes iria caña de azucar
+[23Dec2024 02:43:22.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ArazibeMoney50_: te vamos a secuestrar monysimp
+[23Dec2024 02:43:22.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Dreoufther: te vamos a secuestrar monysimp
+[23Dec2024 02:43:30.606] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> chupala
+[23Dec2024 02:43:49.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ArazibeMoney50_: okey mony toca activar cambios de dificultad
+[23Dec2024 02:43:49.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Dreoufther: okey mony toca activar cambios de dificultad
+[23Dec2024 02:43:58.385] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> nooo
+[23Dec2024 02:44:04.782] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ya me violaron mucho :c
+[23Dec2024 02:44:33.177] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ya vengo dreu voy a la tienda
+[23Dec2024 02:44:39.136] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> dale
+[23Dec2024 02:45:25.292] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
